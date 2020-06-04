@@ -2,4 +2,6 @@ body {
   text-align: center;
   font-size: 32px;
   font-family: Arial, Helvetica, sans-serif;
+  color: azure;
+  background: rgb(19, 86, 231);
 }
